@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utedrove.github.io/sitemap.html.gz
+Sitemap: https://utedrove.github.io/app/sitemap.html.gz
+Sitemap: https://utedrove.github.io/assets/sitemap.html.gz
+Sitemap: https://utedrove.github.io/css/sitemap.html.gz
+Sitemap: https://utedrove.github.io/data/sitemap.html.gz
+Sitemap: https://utedrove.github.io/includes/sitemap.html.gz
+Sitemap: https://utedrove.github.io/item/sitemap.html.gz
+Sitemap: https://utedrove.github.io/src/sitemap.html.gz
